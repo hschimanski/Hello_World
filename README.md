@@ -8,7 +8,7 @@
 
 # Project Title
 ## Description
-Github **bold text**
+Github(**bold text**)
 ## How To Run Program
 1. Write File
 2. Lookover File
