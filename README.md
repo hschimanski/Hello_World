@@ -8,7 +8,11 @@
 
 # Project Title
 ## Description
+Github**bold text**
 ## How To Run Program
+1. Write File
+2. Lookover File
+3. Run File
 ## Files Used
 ## Additional Documentation
 ## Version Summary 
